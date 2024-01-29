@@ -1,2 +1,2 @@
 # call_volume_trend_analysis
-Conducted in-depth analysis of call volume trends to derive actionable insights and enhance operational efficiency.
+This project focuses on enhancing the customer experience within a company's Customer Experience (CX) team. The CX team plays a vital role in analyzing customer feedback and data, deriving valuable insights, and disseminating these insights across the organization. By using analytical skills, I comprehended patterns within the call volume of the CX team and extract valuable insights from the data.
